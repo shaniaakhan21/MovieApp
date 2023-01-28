@@ -1,0 +1,1 @@
+web: gunicorn cp_django-movie_app.wsgi
